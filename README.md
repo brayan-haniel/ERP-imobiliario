@@ -9,5 +9,5 @@ Um CRM moderno e completo para o mercado imobiliário, criado para transformar a
 
 Com foco total na experiência do cliente e na eficiência do corretor, o sistema centraliza comunicações, interpreta intenções e automatiza processos que antes consumiam tempo e oportunidades.
 
-![Pagina Leads, responsável por importar novos leads ou editar os mesmo no programa ](Assets/Pagina_Leads.png)
+![Pagina Chat, responsável por unir multiplos Whatsapps e centralizar os chats de clientes em uma pagina única. ](Assets/Pagina_Chat.png)
 
