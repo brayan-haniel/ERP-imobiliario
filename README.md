@@ -3,6 +3,8 @@
 ERP imobiliário para corretores de imóveis!
 </div>
 
+---
+
 Um ERP moderno e completo para o mercado imobiliário, criado para transformar a forma como corretores e imobiliárias gerenciam clientes, imóveis e atendimentos. A plataforma une WhatsApp, automação inteligente e IA em um único ecossistema, aumentando produtividade, organização e taxa de conversão.
 
 Com foco total na experiência do cliente e na eficiência do corretor, o sistema centraliza comunicações, interpreta intenções e automatiza processos que antes consumiam tempo e oportunidades.
