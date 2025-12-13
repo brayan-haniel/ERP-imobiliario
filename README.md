@@ -19,5 +19,5 @@ Principais funcionalidades:
 
 - Segmentação inteligente que otimiza a rotina dos corretores e aumenta a taxa de conversão.
 
-![Pagina Leads, responsável por importar novos leads ou editar os mesmo no programa ](assets/Pagina_Leads.png)
+![Pagina Leads, responsável por importar novos leads ou editar os mesmo no programa ](Assets/Pagina_Leads.png)
 
