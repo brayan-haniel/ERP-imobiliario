@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">ERP Imobiliário</h1>
 ERP moderno para o setor imobiliário, integrando comunicação via WhatsApp, automação inteligente e gestão completa de clientes e imóveis.
 
@@ -18,6 +19,6 @@ Principais funcionalidades:
 - IA Gemini para atendimento automatizado, análise de intenção e classificação de leads (quentes, mornos e frios).
 
 - Segmentação inteligente que otimiza a rotina dos corretores e aumenta a taxa de conversão.
-
+</div>
 ![Pagina Leads, responsável por importar novos leads ou editar os mesmo no programa ](Assets/Pagina_Leads.png)
 
