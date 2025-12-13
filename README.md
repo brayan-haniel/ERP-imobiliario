@@ -18,3 +18,6 @@ Principais funcionalidades:
 - IA Gemini para atendimento automatizado, análise de intenção e classificação de leads (quentes, mornos e frios).
 
 - Segmentação inteligente que otimiza a rotina dos corretores e aumenta a taxa de conversão.
+
+![Pagina Leads, responsável por importar novos leads ou editar os mesmo no programa ](assets/Pagina_Leads.png)
+
