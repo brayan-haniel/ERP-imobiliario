@@ -34,8 +34,6 @@ Com foco total na experiência do cliente e na eficiência do corretor, o sistem
 ### Página Imoveis
 ![Pagina Imoveis, exibe o mapa dos imoveis cadastrados e adiciona novos imoveis. ](Assets/Pagina_Imoveis.png)
 
-### Página Calendário
-![Pagina Calendário, responsável por criar eventos e visualizar eventos agendados. ](Assets/Pagina_Calendário.png)
 
 
 
