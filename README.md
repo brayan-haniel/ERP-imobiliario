@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">CRM Imobiliário</h1>
-CRM imobiliário para corretores de imóveis!
+CRM imobiliário focado em melhorar a eficiencia e qualidade de venda de corretores de imóveis!
 </div>
 
 ---
